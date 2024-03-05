@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/WP/Z7L3E3ABJ4AHMKGUDGHGMO.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JF/APZKRZ3D25JKKCMI9B38FG.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_TragetGame.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/U8/IGRLR9YXKZ4KRPES3ZEC5G.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SE/V32GMQ3JWCWMQCB43J3RKV.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/Users/curti/Desktop/FirstPersonTemplate/Content/ScifiWeapons/Material/M_Emissive_Bullet.uasset"
+			]
+		}
+	]
+}
